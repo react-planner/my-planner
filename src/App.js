@@ -18,7 +18,9 @@ function App() {
           Learn React <br />
           jiyeon <br />
           jooeun <br />
-          Park ji yeon
+          Park ji yeon <br />
+          jihwa 지각쟁이^_^꺄르
+          ..
         </a>
       </header>
     </div>
