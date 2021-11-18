@@ -22,6 +22,8 @@ function App() {
           jihwa 지각쟁이^_^꺄르
           ..
           yoonseo
+          sohee
+          hihihi
         </a>
       </header>
     </div>
