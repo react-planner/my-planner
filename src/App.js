@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          jiyeon
-          jooeun
+          Learn React <br />
+          jiyeon <br />
+          jooeun <br />
+          Park ji yeon
         </a>
       </header>
     </div>
