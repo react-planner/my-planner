@@ -21,6 +21,7 @@ function App() {
           Park ji yeon <br />
           jihwa 지각쟁이^_^꺄르
           ..
+          yoonseo
         </a>
       </header>
     </div>
