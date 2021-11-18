@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
           jiyeon
+          jooeun
         </a>
       </header>
     </div>
